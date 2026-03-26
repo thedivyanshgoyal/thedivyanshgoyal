@@ -93,14 +93,14 @@ I build interactive websites and craft innovative tech solutions.<br /><br />
 
 ### 🧩 Most Used Languages
 <p align="center" style="box-shadow: 0 0 30px #ff1744cc; border-radius: 20px; overflow: hidden; background: #000000; padding: 10px; margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshgoyal1&layout=compact&langs_count=8&theme=radical&title_color=FF1744&text_color=fff&bg_color=000000&border_color=FF1744&hide_border=false&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedivyanshgoyal&layout=compact&langs_count=8&theme=radical&title_color=FF1744&text_color=fff&bg_color=000000&border_color=FF1744&hide_border=false&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 </p>
 
 ---
 
 ## 🔝Top Contributed Repo
 <p align="center" style="box-shadow: 0 0 30px #ff1744cc; border-radius: 20px; overflow: hidden; background: #000000; padding: 10px; margin-top: 10px;">
-  <img src="https://github-contributor-stats.vercel.app/api?username=divyanshgoyal1&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=FF1744&text_color=fff&bg_color=000000&border_color=FF1744&hide_border=false" alt="Top Contributed Repositories" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=thedivyanshgoyal&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=FF1744&text_color=fff&bg_color=000000&border_color=FF1744&hide_border=false" alt="Top Contributed Repositories" />
 </p>
 
 ---
