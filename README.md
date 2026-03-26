@@ -20,7 +20,7 @@ I build interactive websites and craft innovative tech solutions.<br /><br />
 
 # Zinux 🚀
 
-![Build](https://github.com/thedivyanshgoyal/zinuxmain/actions/workflows/main.yml/badge.svg)
+![Build](https://github.com/thedivyanshgoyal/zinux/actions/workflows/main.yml/badge.svg)
 
 
 ### 🐍 Contribution Graph
