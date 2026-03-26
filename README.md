@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:270026,100:440033&height=150&text=Hi,%20I'm%20Divyansh%20Goyal&fontSize=48&fontColor=FF1744&fontAlignY=45&animation=twinkling&desc=Developer%20|%20Artist%20|%20Innovator&descSize=26&descAlignY=83&section=header" />
 </p>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/67017303/209289506-0ecedebd-8968-43cb-a93b-e237582bc6d1.gif" width="60" alt="Coding GIF" style="border-radius: 12px; box-shadow: 0 0 10px #FF1744;" />
 </p>
